@@ -1,0 +1,44 @@
+[
+  {
+    "id": "842f5f27-fb70-4a1e-a17a-fa9e58dae027",
+    "scoring": 0,
+    "isPenalized": false,
+    "name": "Hernan Elichiry",
+    "DNI": "35412733",
+    "address": {
+      "street": "Colon",
+      "number": 611,
+      "apartment": "8b"
+    },
+    "phoneNumber": "123-444-555",
+    "penalizeDate": "2023-10-10T00:05:42.321Z"
+  },
+  {
+    "id": "35072bd1-6782-48af-859c-299cfd1018e8",
+    "scoring": 3,
+    "isPenalized": false,
+    "name": "Juan Melendez",
+    "DNI": "35412735",
+    "address": {
+      "street": "Sto. Cabral",
+      "number": 733,
+      "apartment": ""
+    },
+    "phoneNumber": "2983-2983",
+    "penalizeDate": "2023-10-10T00:05:42.321Z"
+  },
+  {
+    "id": "93a74818-ed3a-4265-b062-b5e233f9ee7c",
+    "scoring": 0,
+    "isPenalized": false,
+    "name": "Bon Jovi",
+    "DNI": "35412734",
+    "address": {
+      "street": "Av. Independencia",
+      "number": 580,
+      "apartment": "2B"
+    },
+    "phoneNumber": "011-555-555",
+    "penalizeDate": "2023-10-10T00:05:42.321Z"
+  }
+]

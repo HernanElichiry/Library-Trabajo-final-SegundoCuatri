@@ -1,0 +1,16 @@
+[
+  {
+    "id": "45046c5f-93ab-4860-92bd-5e6caf4fd182",
+    "isAvailable": true,
+    "title": "El resplandor",
+    "year": 1977,
+    "author": "Sthephen King"
+  },
+  {
+    "id": "08ec246b-b094-4b01-930e-578f29035181",
+    "isAvailable": true,
+    "title": "Revista Reader's digest",
+    "year": 1998,
+    "editor": "TRD Association"
+  }
+]
